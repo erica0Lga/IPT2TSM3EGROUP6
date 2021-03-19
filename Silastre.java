@@ -3,10 +3,10 @@ package StudentInfo;
 public class function {
 
 Private string name3, addres3;cours3;
-Private int age1;
+Private int age3;
 
 public  String NameJan3() {
-   return name1 ="Jan Guiller Silastre";    
+   return name3 ="Jan Guiller Silastre";    
 }
 
 public String addressJan(){
