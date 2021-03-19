@@ -1,25 +1,24 @@
-
 package studentinfo;
 
 public class function {
-    
-    private String name1, address1,course1;
-    private int age1;
 
-public  String NameDynel() {
-   return name1 ="Dynel Angelo Fajardo";    
+	private String name2, address2, course2;
+	private int age2;
+
+public  String nameFlordeliza() {
+   return name2 ="Flordeliza Matt Reuben Wage";    
 }
 
-public String addressDynel(){
-return address1= "San Isidro, Tarlac City";
+public String addresssFlordeliza(){
+return address2 "Caluluan, Concepcion Tarlac";
 }
 
-public String courseDynel(){
-return course1= "BS Information Technology";
+public String courseFlordeliza(){
+return course2= "BS Info Tech";
 }
 
-public int ageDynel(){ 
-return age1= 23;
+public int ageFlordeliza(){ 
+return age2= 21;
 }
-    
+
 }
